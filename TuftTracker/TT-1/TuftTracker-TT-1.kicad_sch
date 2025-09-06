@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "17f67544-47cf-4888-b568-764b00b29fe0")
+	(paper "A4")
+	(title_block
+		(title "TuftTracker TT-1")
+		(rev "v1.0")
+		(company "Designed by Adrien Lesage")
+		(comment 1 "© CERN-OHL-S-2.0")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
