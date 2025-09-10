@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7a6d4688-f268-46bd-936a-8b7af9e26435")
+	(paper "A4")
+	(title_block
+		(title "Breakout Board for AXP2101 PMU")
+		(date "2025-09-10")
+		(rev "1.0")
+		(company "Designed by Adrien Lesage")
+		(comment 1 "© CC BY-SA 4.0")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
