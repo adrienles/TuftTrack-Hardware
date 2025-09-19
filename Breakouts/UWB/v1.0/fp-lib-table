@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TuftTrack")(type "KiCad")(uri "${KIPRJMOD}/../../../Resources/TuftTrack.pretty")(options "")(descr ""))
+)
